@@ -22,3 +22,11 @@
 /Users/nikhilpothuru/SoftwareProjects/greetings/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
 /Users/nikhilpothuru/SoftwareProjects/greetings/Domain/obj/Debug/netstandard2.1/Domain.dll
 /Users/nikhilpothuru/SoftwareProjects/greetings/Domain/obj/Debug/netstandard2.1/Domain.pdb
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/obj/Debug/netstandard2.1/Domain.pdb

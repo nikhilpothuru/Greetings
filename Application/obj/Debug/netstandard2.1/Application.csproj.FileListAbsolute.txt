@@ -37,3 +37,16 @@
 /Users/nikhilpothuru/SoftwareProjects/greetings/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
 /Users/nikhilpothuru/SoftwareProjects/greetings/Application/obj/Debug/netstandard2.1/Application.dll
 /Users/nikhilpothuru/SoftwareProjects/greetings/Application/obj/Debug/netstandard2.1/Application.pdb
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/bin/Debug/netstandard2.1/Application.deps.json
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/bin/Debug/netstandard2.1/Application.dll
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/bin/Debug/netstandard2.1/Application.pdb
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/bin/Debug/netstandard2.1/Domain.dll
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/bin/Debug/netstandard2.1/Persistence.dll
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/bin/Debug/netstandard2.1/Domain.pdb
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/bin/Debug/netstandard2.1/Persistence.pdb
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/obj/Debug/netstandard2.1/Application.csprojAssemblyReference.cache
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/obj/Debug/netstandard2.1/Application.AssemblyInfoInputs.cache
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/obj/Debug/netstandard2.1/Application.AssemblyInfo.cs
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/obj/Debug/netstandard2.1/Application.csproj.CopyComplete
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/obj/Debug/netstandard2.1/Application.dll
+/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/obj/Debug/netstandard2.1/Application.pdb

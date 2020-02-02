@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikhilpothuru/SoftwareProjects/greetings/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/nikhilpothuru/SoftwareProjects/greetings/Domain/Domain.csproj",
+      "projectPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj",
       "packagesPath": "/Users/nikhilpothuru/.nuget/packages/",
-      "outputPath": "/Users/nikhilpothuru/SoftwareProjects/greetings/Domain/obj/",
+      "outputPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikhilpothuru/.nuget/NuGet/NuGet.Config"

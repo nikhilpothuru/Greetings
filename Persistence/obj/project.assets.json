@@ -1285,11 +1285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikhilpothuru/SoftwareProjects/greetings/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/nikhilpothuru/SoftwareProjects/greetings/Persistence/Persistence.csproj",
+      "projectPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Persistence/Persistence.csproj",
       "packagesPath": "/Users/nikhilpothuru/.nuget/packages/",
-      "outputPath": "/Users/nikhilpothuru/SoftwareProjects/greetings/Persistence/obj/",
+      "outputPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Persistence/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikhilpothuru/.nuget/NuGet/NuGet.Config"
@@ -1303,8 +1303,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "/Users/nikhilpothuru/SoftwareProjects/greetings/Domain/Domain.csproj": {
-              "projectPath": "/Users/nikhilpothuru/SoftwareProjects/greetings/Domain/Domain.csproj"
+            "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj": {
+              "projectPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj"
             }
           }
         }
