@@ -1,0 +1,8 @@
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.deps.json
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.dll
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Domain/bin/Debug/netstandard2.0/Domain.pdb
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.csprojAssemblyReference.cache
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfoInputs.cache
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.AssemblyInfo.cs
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.dll
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Domain/obj/Debug/netstandard2.0/Domain.pdb

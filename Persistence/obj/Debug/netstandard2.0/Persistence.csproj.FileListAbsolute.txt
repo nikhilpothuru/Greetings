@@ -1,0 +1,11 @@
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/nikhilpothuru/SoftwareProjects/Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
