@@ -19,7 +19,7 @@ export const ActivityDetails: React.FC<RouteComponentProps<DetailParams>> = ({ma
 
     useEffect(() => {
         console.log("5) useEffect entered");
-        loadActivity(match.params.id).then(() => console.log("6) UseEffect :: Finished load activity, now in promise statement: " + activity));
+        loadActivity(match.params.id);
         console.log("7) useEffect :: Last Line")
     }, [loadActivity, match.params.id])
 
