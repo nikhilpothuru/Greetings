@@ -1280,7 +1280,8 @@
     ]
   },
   "packageFolders": {
-    "/Users/nikhilpothuru/.nuget/packages/": {}
+    "/Users/nikhilpothuru/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
@@ -1291,6 +1292,9 @@
       "packagesPath": "/Users/nikhilpothuru/.nuget/packages/",
       "outputPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Persistence/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
         "/Users/nikhilpothuru/.nuget/NuGet/NuGet.Config"
       ],

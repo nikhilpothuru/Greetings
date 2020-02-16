@@ -13,6 +13,9 @@
         "packagesPath": "/Users/nikhilpothuru/.nuget/packages/",
         "outputPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Application/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/nikhilpothuru/.nuget/NuGet/NuGet.Config"
         ],
@@ -76,6 +79,9 @@
         "packagesPath": "/Users/nikhilpothuru/.nuget/packages/",
         "outputPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/nikhilpothuru/.nuget/NuGet/NuGet.Config"
         ],
@@ -126,6 +132,9 @@
         "packagesPath": "/Users/nikhilpothuru/.nuget/packages/",
         "outputPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Persistence/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/Users/nikhilpothuru/.nuget/NuGet/NuGet.Config"
         ],
