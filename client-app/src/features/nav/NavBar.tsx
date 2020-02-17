@@ -16,7 +16,7 @@ export const NavBar: React.FC = () => {
                 <Menu.Item>
                     <Button
                         as={NavLink} to='/createActivity' 
-                        color='red' 
+                        color='pink' 
                         content='Create Meetup' 
                     />
                 </Menu.Item> 

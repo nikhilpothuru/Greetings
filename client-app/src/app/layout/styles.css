@@ -5,8 +5,8 @@ body {
 .ui.inverted.top.fixed.menu {
   background-image: linear-gradient(
     135deg,
-    #4e54c8,
-    #ec2f4b
+    #D31027,
+    #8E54E9
   ) !important;
 }
 
@@ -17,8 +17,9 @@ body {
   align-items: center;
   background-image: linear-gradient(
     135deg,
-    #4e54c8,
-    #ec2f4b
+    #D31027,
+    #8E54E9
+
   ) !important;
   height: 100vh;
 }

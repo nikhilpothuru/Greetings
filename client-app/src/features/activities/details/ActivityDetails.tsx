@@ -14,20 +14,24 @@ interface DetailParams {
     id: string
 }
 
-export const ActivityDetails: React.FC<RouteComponentProps<DetailParams>> = ({match}) => {
+export const ActivityDetails: React.FC<RouteComponentProps<DetailParams>> = ({match, history}) => {
 
     const activityStore = useContext(ActivityStore);
     const {activity, loadActivity, loadingInitial} = activityStore;
 
 
     useEffect(() => {
-        console.log("5) useEffect entered");
+        //console.log("5) useEffect entered");
         loadActivity(match.params.id);
-        console.log("7) useEffect :: Last Line")
-    }, [loadActivity, match.params.id])
+        //console.log("7) useEffect :: Last Line")
+    }, [loadActivity, match.params.id, history])
 
-    if(loadingInitial || !activity){
+    if(loadingInitial){
         return <LoadingComponent content='Loading activity...' />
+    }
+
+    if(!activity){
+        return <h2>Activity not found!</h2>
     }
 
     return (

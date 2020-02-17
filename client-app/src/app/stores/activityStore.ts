@@ -38,7 +38,6 @@ class ActivityStore{
                 }); 
                 this.loadingInitial = false; 
             });
-            console.log(this.groupActivitiesByDate(activities));
         }
         catch(error){
             runInAction('load activities error', () => {
@@ -54,7 +53,7 @@ class ActivityStore{
 
         if(activity){
             this.activity = activity;
-            console.log("1) activity found in registry: " + activity);
+            //console.log("1) activity found in registry: " + activity);
         }
         else{
             this.loadingInitial = true;
@@ -71,9 +70,9 @@ class ActivityStore{
                 })
                 console.log(error);
             }
-            console.log("1) activity NOT found in registry (GET request): " + activity);
+            //console.log("1) activity NOT found in registry (GET request): " + activity);
         }
-        console.log("1.5) End of load activity: " + activity);
+        //console.log("1.5) End of load activity: " + activity);
     }
 
     getActivity = (id: string) => { 
