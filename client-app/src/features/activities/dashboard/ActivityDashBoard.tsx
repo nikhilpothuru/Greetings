@@ -14,7 +14,7 @@ export const ActivityDashBoard: React.FC = () =>
     }, [activityStore]); 
   
     if(activityStore.loadingInitial){
-      return <LoadingComponent content='Loading activities...' />
+      return <LoadingComponent content='Loading meetups...' />
     }
 
     return (
