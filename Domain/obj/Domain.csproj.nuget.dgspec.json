@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj": {}
+    "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj": {
+    "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj",
+        "projectPath": "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Domain/Domain.csproj",
         "packagesPath": "/Users/nikhilpothuru/.nuget/packages/",
-        "outputPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/obj/",
+        "outputPath": "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Domain/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

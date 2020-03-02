@@ -6303,11 +6303,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Persistence/Persistence.csproj",
+      "projectUniqueName": "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Persistence/Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Persistence/Persistence.csproj",
+      "projectPath": "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Persistence/Persistence.csproj",
       "packagesPath": "/Users/nikhilpothuru/.nuget/packages/",
-      "outputPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Persistence/obj/",
+      "outputPath": "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Persistence/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -6324,8 +6324,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj": {
-              "projectPath": "/Users/nikhilpothuru/SoftwareProjects/SocialMediaApp/Greetings/Domain/Domain.csproj"
+            "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Domain/Domain.csproj": {
+              "projectPath": "/Users/nikhilpothuru/SoftwareProjects/OldProject/Greetings/Domain/Domain.csproj"
             }
           }
         }
